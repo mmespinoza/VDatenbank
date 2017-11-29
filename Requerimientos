@@ -1,0 +1,18 @@
+ArangoDB              |                                    |   |   |   |
+|-----------------------|------------------------------------|---|---|---|
+| Systemvoraussetzungen |                                    |   |   |   |
+| Betriebssystem        | Linux, Windows, Mac OS; Solaris    |   |   |   |
+| RAM                   | 1 GB CPU : 2.2 GHz (linux)         |   |   |   |
+|                       | 2-3 GB ; 32bit and 64bit (Windows) |   |   |   |
+| Lizenz                | nichtkommerzielle / kommerzielle   |   |   |   |
+| Werkzeuge             | ArangoDB shell (“arangosh”)        |   |   |   |
+|                       | HTTP REST API via curl/wget        |   |   |   |
+| Programmiersprache:   | JAVA; JS; PHP, Net                 |   |   |   |
+| Massendatenimport     | arangoimp command-line tool        |   |   |   |
+| Export                | arangoexport                       |   |   |   |
+| Datensicherung        | arangodump                         |   |   |   |
+| Recovery              | arangorestore                      |   |   |   |
+| Komprimierung         |                                    |   |   |   |
+| SQL                   | nein                               |   |   |   |
+| Cloud-basiert         | only as a cloud servicce           |   |   |   |
+|                       |                                    |   |   |   |
